@@ -1,0 +1,99 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+}
+
+.container {
+    max-width: 250px;
+    max-height: 460px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    padding: 25px 30px 37px 35px;
+    border-radius: 10px;
+    background-color: hsl(216, 50%, 16%);
+    box-shadow: 0 0 100px hsl(210, 25%, 2%);
+}
+
+img {
+    text-align: left;
+}
+
+.image-equilibrium {
+    max-width: 270px;
+    border-radius: 3%;
+    text-align: center;
+}
+
+.equilibrium {
+    color: white;
+    font-size: 17px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.text {
+    color: hsl(215, 51%, 70%);
+    font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.eth {
+    color: hsl(178, 100%, 50%);
+    font-size: 14px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.time {
+    color: hsl(215, 51%, 70%);
+    font-size: 15px;
+    margin-right: auto;
+    margin-top: -1em;
+    display: flex;
+    justify-content: right;
+    align-items: flex-end;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.co {
+    color: hsl(215, 51%, 70%);
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.name {
+    color: white;
+    font-size: 15px;
+    font-family: monospace;
+    padding-right: 10%;
+}
+
+hr {
+    margin-top: 20px;
+    border: 1px solid hsl(215, 32%, 27%);
+}
+
+.cb {
+    color: white;
+    font-size: 15px;
+}
+
+.cob {
+    color: white;
+    font-size: 15px;
+    font-family: monospace;
+}
+
+.image-avatar {
+    width: 13%;
+}
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+    font-family: monospace;
+}
